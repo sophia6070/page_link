@@ -22,10 +22,8 @@ body {
 
 .head {
     width: 1000px;
-    padding:40px;
-    
+    padding:60px;
     text-align: center;
-    /* margin: 10px 0 30px 20px; */
     margin: 0 auto;
 }
 
@@ -45,7 +43,7 @@ body {
 
 .nav ul li {
     display: inline-block;
-    height: 80px;
+    
 }
 
 .nav ul li a {
@@ -76,5 +74,5 @@ body {
     text-align: center;
     font-size: 14px;
     color: #666;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ddd;
 }
